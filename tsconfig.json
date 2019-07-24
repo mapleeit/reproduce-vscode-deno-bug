@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./built",
+    "target": "esnext",
+    "module": "commonjs",
+    "strict": true,
+    "lib": ["es2017"]
+  }
+}
